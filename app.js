@@ -4,7 +4,7 @@ console.log(
 );
 
 // Exercise 1
-const firstName;
+const firstName = "Ollie";
 let lastName;
 var age;
 // Exercise 2
@@ -28,4 +28,3 @@ let author = "Patrick Rothfuss";
 let pageCount = 722;
 let bookmark = 456;
 let hasRead = true;
-console.log(title)
